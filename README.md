@@ -18,6 +18,6 @@ Tenho projetos utilizando:
 
 -----
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hilan-CP&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hilan-CP&layout=compact&card_width=320&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Hilan-CP&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hilan-CP&layout=compact&card_width=320&theme=dark" />
 </div>
